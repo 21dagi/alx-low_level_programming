@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-  * main - Entry point of the program.
+  * print_alphabet_x10 - makes alphabet x10 times.
   * Return: Always 0 (Success)
   */
 
@@ -9,7 +9,7 @@ void print_alphabet_x10(void)
 {
 char ch;
 int i;
-i=0;
+i = 0;
 while (i < 10)
 {
 for (ch = 'a'; ch <= 'z'; ch++)
