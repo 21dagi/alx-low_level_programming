@@ -6,7 +6,7 @@
 
 * 2. key -> index
 
-* 3. >>> ht['betty'] = 'holberton'
+* 3. >>> ht['betty'] = 'alx'
 
 * 4. >>> ht['betty']
 
